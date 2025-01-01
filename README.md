@@ -23,7 +23,7 @@ Features
 - User Login & Auth
 - Authorization
 - Custom Forms
-- 
+  
 ## Future Plans
 
 - Integration with GeoDjango
